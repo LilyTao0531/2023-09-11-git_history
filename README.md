@@ -16,3 +16,4 @@
 
   - `revert <SHA1>`: undos the changes in the commit specified in `<SHA1>`
   - test git diff
+  - test git diff again
