@@ -15,5 +15,6 @@
   - `restore --staged <FILE>`: unstages <FILE> from the staging area
 
   - `revert <SHA1>`: undos the changes in the commit specified in `<SHA1>`
+
   - test git diff
   - test git diff again with git stash
