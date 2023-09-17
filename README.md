@@ -18,3 +18,4 @@
 
   - test git diff
   - test git diff again with git stash
+  - Why Not Stash?!
