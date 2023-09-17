@@ -10,11 +10,8 @@
   - `log --oneline`: shows the log in condenced format
   - ``
 
-
-
 - `git diff`: shows you the "difference" between your changes and the last known git state
   - `diff --staged`: shows you the diff of the files in the staging area
   - `restore --staged <FILE>`: unstages <FILE> from the staging area
-  - `revert <SHA1>`: undos the changes in the commit specified in `<SHA1>`
 
-  Something I don't want to commit
+  - `revert <SHA1>`: undos the changes in the commit specified in `<SHA1>`
