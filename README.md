@@ -8,7 +8,7 @@
 
 - `log`: shows the log
   - `log --oneline`: shows the log in condenced format
-  - ``
+  - `
 
 - `git diff`: shows you the "difference" between your changes and the last known git state
   - `diff --staged`: shows you the diff of the files in the staging area
