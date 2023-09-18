@@ -19,5 +19,5 @@
   - test git diff
   - test git diff again with git stash
 
-  - that's how it works.
+  - that's how it works?
 
